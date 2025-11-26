@@ -45,7 +45,7 @@
 | [**AI_FORM_BUILDER**](https://github.com/Devesh36/AI_FORM_BUILDER) | Build forms automatically with AI integration | React, Node.js, OpenAI API |
 | [**deploy_buddy**](https://github.com/Devesh36/deploy_buddy) | Tool to automate deployment for developers | TypeScript, CLI |
 | [**Brain-Stack**](https://github.com/Devesh36/Brain-Stack) | Personal AI-powered knowledge tracker | TypeScript, Next.js |
-| [**ai_listener**](https://github.com/Devesh36/ai_listener) | Voice-based AI assistant | TypeScript, Web Speech API |
+| [**ai_listener**](https://github.com/Devesh36/ai_listener) | AI assistant | TypeScript, Web API |
 | [**DNS-SERVER**](https://github.com/Devesh36/DNS-SERVER) | Basic DNS server implementation | JavaScript, Networking |
 
 ---
